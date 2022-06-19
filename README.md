@@ -2,7 +2,7 @@
 
 Just launch and AFK.
 
-
+拿来刷刷代币或者宝典
 
 需要pyautogui库
 
